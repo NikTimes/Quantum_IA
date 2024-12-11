@@ -1,0 +1,16 @@
+{"time":"2024-12-11T03:32:49.1354878Z","level":"INFO","msg":"using version","core version":"0.19.0"}
+{"time":"2024-12-11T03:32:49.135587Z","level":"INFO","msg":"created symlink","path":"C:\\Users\\kikeh\\repos\\Quantum_IA\\wandb\\run-20241211_033249-jevsmv3d\\logs\\debug-core.log"}
+{"time":"2024-12-11T03:32:49.2691156Z","level":"INFO","msg":"created new stream","id":"jevsmv3d"}
+{"time":"2024-12-11T03:32:49.2691156Z","level":"INFO","msg":"stream: started","id":"jevsmv3d"}
+{"time":"2024-12-11T03:32:49.2691156Z","level":"INFO","msg":"writer: Do: started","stream_id":"jevsmv3d"}
+{"time":"2024-12-11T03:32:49.2691156Z","level":"INFO","msg":"sender: started","stream_id":"jevsmv3d"}
+{"time":"2024-12-11T03:32:49.2691156Z","level":"INFO","msg":"handler: started","stream_id":"jevsmv3d"}
+{"time":"2024-12-11T03:32:49.7426476Z","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-12-11T03:35:22.8979387Z","level":"INFO","msg":"stream: closing","id":"jevsmv3d"}
+{"time":"2024-12-11T03:35:22.8979387Z","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2024-12-11T03:35:22.8984429Z","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2024-12-11T03:35:24.0069498Z","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2024-12-11T03:35:24.2007397Z","level":"INFO","msg":"handler: closed","stream_id":"jevsmv3d"}
+{"time":"2024-12-11T03:35:24.2007397Z","level":"INFO","msg":"sender: closed","stream_id":"jevsmv3d"}
+{"time":"2024-12-11T03:35:24.2007397Z","level":"INFO","msg":"writer: Close: closed","stream_id":"jevsmv3d"}
+{"time":"2024-12-11T03:35:24.2013018Z","level":"INFO","msg":"stream: closed","id":"jevsmv3d"}

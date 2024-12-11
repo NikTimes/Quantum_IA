@@ -1,0 +1,8 @@
+Epoch 1/5:   0%|                                                                                                                                                                                                      | 0/10 [00:36<?, ?it/s]
+Traceback (most recent call last):
+  File "c:\Users\kikeh\repos\Quantum_IA\Quantum_ODE.py", line 89, in <module>
+    train(model, loader, optimizer, criterion, dt=config.dt, epochs=config.epochs)
+  File "c:\Users\kikeh\repos\Quantum_IA\Quantum_ODE.py", line 51, in train
+    predicted = predicted.permute(1, 0, 2)
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^
+RuntimeError: permute(sparse_coo): number of dimensions in the tensor input does not match the length of the desired ordering of dimensions i.e. input.dim() = 4 is not equal to len(dims) = 3

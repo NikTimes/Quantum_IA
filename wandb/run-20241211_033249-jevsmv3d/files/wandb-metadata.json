@@ -1,0 +1,28 @@
+{
+  "os": "Windows-11-10.0.22631-SP0",
+  "python": "CPython 3.12.3",
+  "startedAt": "2024-12-11T03:32:49.133057Z",
+  "program": "c:\\Users\\kikeh\\repos\\Quantum_IA\\simulation.py",
+  "codePath": "simulation.py",
+  "email": "kikeheine@gmail.com",
+  "root": "C:\\Users\\kikeh\\repos\\Quantum_IA",
+  "host": "Kikes-PC",
+  "username": "kikeh",
+  "executable": "C:\\Users\\kikeh\\miniconda3\\python.exe",
+  "codePathLocal": "simulation.py",
+  "cpu_count": 4,
+  "cpu_count_logical": 8,
+  "disk": {
+    "/": {
+      "total": "231107194880",
+      "used": "198372716544"
+    }
+  },
+  "memory": {
+    "total": "8485421056"
+  },
+  "cpu": {
+    "count": 4,
+    "countLogical": 8
+  }
+}

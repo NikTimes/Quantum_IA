@@ -1,0 +1,16 @@
+{"time":"2024-12-11T04:01:48.9395945Z","level":"INFO","msg":"using version","core version":"0.19.0"}
+{"time":"2024-12-11T04:01:48.9401211Z","level":"INFO","msg":"created symlink","path":"C:\\Users\\kikeh\\repos\\Quantum_IA\\wandb\\run-20241211_040148-5huqzydx\\logs\\debug-core.log"}
+{"time":"2024-12-11T04:01:49.0510075Z","level":"INFO","msg":"created new stream","id":"5huqzydx"}
+{"time":"2024-12-11T04:01:49.0510075Z","level":"INFO","msg":"stream: started","id":"5huqzydx"}
+{"time":"2024-12-11T04:01:49.0510075Z","level":"INFO","msg":"handler: started","stream_id":"5huqzydx"}
+{"time":"2024-12-11T04:01:49.0510075Z","level":"INFO","msg":"writer: Do: started","stream_id":"5huqzydx"}
+{"time":"2024-12-11T04:01:49.0510075Z","level":"INFO","msg":"sender: started","stream_id":"5huqzydx"}
+{"time":"2024-12-11T04:01:49.3390587Z","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-12-11T04:04:26.2884318Z","level":"INFO","msg":"stream: closing","id":"5huqzydx"}
+{"time":"2024-12-11T04:04:26.2884318Z","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2024-12-11T04:04:26.2899928Z","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2024-12-11T04:04:26.9528371Z","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2024-12-11T04:04:27.1341266Z","level":"INFO","msg":"handler: closed","stream_id":"5huqzydx"}
+{"time":"2024-12-11T04:04:27.1341266Z","level":"INFO","msg":"writer: Close: closed","stream_id":"5huqzydx"}
+{"time":"2024-12-11T04:04:27.1341266Z","level":"INFO","msg":"sender: closed","stream_id":"5huqzydx"}
+{"time":"2024-12-11T04:04:27.1341266Z","level":"INFO","msg":"stream: closed","id":"5huqzydx"}

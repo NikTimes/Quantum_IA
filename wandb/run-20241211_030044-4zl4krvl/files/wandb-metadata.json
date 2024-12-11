@@ -1,0 +1,28 @@
+{
+  "os": "Windows-11-10.0.22631-SP0",
+  "python": "CPython 3.12.3",
+  "startedAt": "2024-12-11T03:00:44.623851Z",
+  "program": "c:\\Users\\kikeh\\repos\\Quantum_IA\\Quantum_ODE.py",
+  "codePath": "Quantum_ODE.py",
+  "email": "kikeheine@gmail.com",
+  "root": "C:\\Users\\kikeh\\repos\\Quantum_IA",
+  "host": "Kikes-PC",
+  "username": "kikeh",
+  "executable": "C:\\Users\\kikeh\\miniconda3\\python.exe",
+  "codePathLocal": "Quantum_ODE.py",
+  "cpu_count": 4,
+  "cpu_count_logical": 8,
+  "disk": {
+    "/": {
+      "total": "231107194880",
+      "used": "199264866304"
+    }
+  },
+  "memory": {
+    "total": "8485421056"
+  },
+  "cpu": {
+    "count": 4,
+    "countLogical": 8
+  }
+}
